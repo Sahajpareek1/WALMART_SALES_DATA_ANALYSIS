@@ -1,4 +1,4 @@
-# Walmart Data Analysis: End-to-End SQL + Python Project P-9
+# Walmart Data Analysis
 
 ## Project Overview
 
@@ -119,12 +119,6 @@ Possible extensions to this project:
 - Integration with a dashboard tool (e.g., Power BI or Tableau) for interactive visualization.
 - Additional data sources to enhance analysis depth.
 - Automation of the data pipeline for real-time data ingestion and analysis.
-
----
-
-## License
-
-This project is licensed under the MIT License. 
 
 ---
 
